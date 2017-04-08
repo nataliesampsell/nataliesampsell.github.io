@@ -1,0 +1,10 @@
+.navbar {
+	background-color: blue;
+	overflow: hidden;
+} 
+
+a {
+	float: center;	
+	display: black;
+	color: #f2f2f2;
+}
